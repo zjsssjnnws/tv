@@ -1,4 +1,293 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXkwLpT5/Picsart-26-02-19-15-29-34-796.jpg" group-title="KIRDSH CHANAL LOKAL",NRT TVHD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/8174
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWVtK94Q/Picsart-26-02-19-15-35-30-013.jpg" group-title="KIRDSH CHANAL LOKAL",Channel8 TV HD
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26hpkGbb/Picsart-26-02-19-15-40-03-525.jpg" group-title="KIRDSH CHANAL LOKAL",K24 TV HD
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjCgPZcY/Picsart-26-02-19-15-43-21-609.jpg" group-title="KIRDSH CHANAL LOKAL",AVA_TV
+http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3Wcp1ZC/Picsart-26-02-19-15-45-08-836.jpg" group-title="KIRDSH CHANAL LOKAL",KURDSAT_HD
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2W1s87m/Picsart-26-02-19-15-46-29-239.jpg" group-title="KIRDSH CHANAL LOKAL",KURDSAT_NEWS HD
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JzrPtqgw/Picsart-26-02-19-15-48-12-725.jpg" group-title="KIRDSH CHANAL LOKAL",NRT2 TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/8175
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3R5G0rRG/Picsart-26-02-19-15-50-19-557.jpg" group-title="KIRDSH CHANAL LOKAL",NRT3 TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378349
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgyysLbF/Picsart-26-02-19-15-54-00-571.jpg" group-title="KIRDSH CHANAL LOKAL",PAYAM TV HD
+https://media2.streambrothers.com:1936/8218/8218/kurdtv1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYbhRyvt/Picsart-26-02-19-15-58-19-016.jpg" group-title="KIRDSH CHANAL LOKAL",Kurd Max Badine HD
+https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/chunklist_w1862836536.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYbhRyvt/Picsart-26-02-19-15-58-19-016.jpg" group-title="KIRDSH CHANAL LOKAL",Kurd Max Sorani HD
+https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/chunklist_w1862836536.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yjXcnfg/Picsart-26-02-19-16-01-12-677.jpg" group-title="KIRDSH CHANAL LOKAL",Kurd Max Show HD
+https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yjXcnfg/Picsart-26-02-19-16-01-12-677.jpg" group-title="KIRDSH CHANAL LOKAL",Kurd Max Show Badine HD
+https://6476e46b58f91.streamlock.net/liveTrans/SHOWB234/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B60g9B2g/Picsart-26-02-19-16-02-53-287.png" group-title="KIRDSH CHANAL LOKAL",KURD MAX MUSIC HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378200
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/764Z35yK/Picsart-26-02-19-16-18-44-598.jpg" group-title="KIRDSH CHANAL LOKAL",khak TV HD
+http://bblserver.ddns.net:1935/stream/khakhd/hawezhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hW4W6jQ/Picsart-26-02-19-16-20-03-948.jpg" group-title="KIRDSH CHANAL LOKAL",BARIN QURAN TV HD
+http://baskhd.ddns.net:40/live/QURANHDTV/HawezHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MkN37Fg/Picsart-26-02-19-16-22-00-784.jpg" group-title="KIRDSH CHANAL LOKAL",MARIN MOVIESHD
+http://baskhd.ddns.net:40/live//barinmovieSHD/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYzddFDc/Picsart-26-02-19-16-25-22-069.jpg" group-title="KIRDSH CHANAL LOKAL",BARIN FAMILYHD
+http://baskhd.ddns.net:40/live/BarinfamilyHD/HawezHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fztypg9W/Picsart-26-02-25-01-49-30-614.png" group-title="KIRDSH CHANAL LOKAL",ARO FAMILYTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1znvGzKQ/Picsart-26-02-19-16-28-11-033.jpg" group-title="KIRDSH CHANAL LOKAL",NRT SPORTS HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511352
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2658cPVQ/Picsart-26-02-19-16-33-19-342.jpg" group-title="KIRDSH CHANAL LOKAL",SEE SPORTS HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511328
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/05TKjyzW/Picsart-26-02-19-16-35-23-831.jpg" group-title="KIRDSH CHANAL LOKAL",DHOK SPORTS HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511363
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRBbczRg/Picsart-26-02-19-16-37-15-557.png" group-title="KIRDSH CHANAL LOKAL",SEE SPORTS 1HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511349
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jhrz443/Picsart-26-02-19-16-38-23-496.png" group-title="KIRDSH CHANAL LOKAL",DASINYA SPORTS HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511330
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pf9cy4Qs/Picsart-26-02-19-19-16-48-200.jpg" group-title="KIRDSH CHANAL LOKAL",GAWHERA SOPRT TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/528768
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KY6vxFrr/Picsart-26-02-19-19-04-04-901.jpg" group-title="KIRDSH CHANAL LOKAL",ZNAR TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378279
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L53SmDqx/Picsart-26-02-19-16-39-47-739.jpg" group-title="KIRDSH CHANAL LOKAL",AFARIN TV HD
+http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFx2qfz0/Picsart-26-02-19-16-41-32-463.jpg" group-title="KIRDSH CHANAL LOKAL",AFARIN KIDS TV
+http://afarintv2.flashmediacast.com:1935/afarinTV/d1/livestream/HawezHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xt5y04t/Picsart-26-02-19-16-42-39-648.jpg" group-title="KIRDSH CHANAL LOKAL",AFARIN BAXCHATV
+http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTfZhXDK/Picsart-26-02-19-16-46-27-689.png" group-title="KIRDSH CHANAL LOKAL",Zarok TVBadine
+https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNbfXhR2/Picsart-26-02-19-16-48-53-407.png" group-title="KIRDSH CHANAL LOKAL",KIDCH HD
+http://avrstream.com:1935/live/kidcohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkYM3Pk3/Picsart-26-02-19-16-50-19-984.jpg" group-title="KIRDSH CHANAL LOKAL",JOJO MAMA TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378261
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqzX8JnY/Picsart-26-02-19-18-21-02-769.png" group-title="KIRDSH CHANAL LOKAL",ZAROK TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/30354
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k48t92Q5/Picsart-26-02-19-16-51-32-630.png" group-title="KIRDSH CHANAL LOKAL",Bask Tv
+http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFMzC8fz/Picsart-26-02-19-16-54-55-991.png" group-title="KIRDSH CHANAL LOKAL",Rawshan
+http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rczzWLY/Picsart-26-02-19-16-56-08-571.jpg" group-title="KIRDSH CHANAL LOKAL",Amozhgare
+https://app-live.org/live/a267c1b3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02mLvz3k/Picsart_26_02_17_01_23_06_269.jpg" group-title="KIRDSH CHANAL LOKAL",IMK QURAN HD
+http://avrstream.com:1935/live/IMKQURANHD/HawezHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRNsgJL0/Picsart-26-02-19-16-57-56-270.png" group-title="KIRDSH CHANAL LOKAL",Emantv
+http://avrstream.com:1935/live/emantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWvjK4DX/Picsart-26-02-19-17-06-38-445.jpg" group-title="KIRDSH CHANAL LOKAL",SHNA_QuranHD
+http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rs7Vpjq6/Picsart-26-02-19-17-07-41-022.jpg" group-title="KIRDSH CHANAL LOKAL",Naqshi MediaHD
+http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63yT5yC9/Picsart-26-02-19-17-08-49-735.jpg" group-title="KIRDSH CHANAL LOKAL",/Bangxwazen-Badinan HD
+http://iptvtree.net:8080/osec/c5176e377c82/14704
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZgM6vSw/Picsart-26-02-19-17-09-46-656.jpg" group-title="KIRDSH CHANAL LOKAL",SoranEntertainment
+http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv5zMgDR/Picsart-26-02-19-17-11-12-646.jpg" group-title="KIRDSH CHANAL LOKAL",Kurdstan TVHD
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1790905875_b1700000_sleng_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQgVv5xs/Picsart-26-02-19-17-12-07-223.jpg" group-title="KIRDSH CHANAL LOKAL",Shna TV HD
+http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWvjK4DX/Picsart-26-02-19-17-06-38-445.jpg" group-title="KIRDSH CHANAL LOKAL",Shna Quran TvHD
+http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJHFQRk3/Picsart-26-02-19-17-13-30-453.jpg" group-title="KIRDSH CHANAL LOKAL",Zagros TV HD
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w469474030_b1700000_sleng_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1vzWJPY/Picsart-26-02-19-17-14-31-678.jpg" group-title="KIRDSH CHANAL LOKAL",PRO QURAN TVHD
+http://tv.ezanvaktipro.com/hls/quran.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y0C7HF2/Picsart-26-02-19-17-15-38-690.png" group-title="KIRDSH CHANAL LOKAL",IShtar TV HD
+http://ishtartv.badinan.xyz:1935/live/iShtarHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5pfpzmg/Picsart-26-02-19-17-16-59-806.jpg" group-title="KIRDSH CHANAL LOKAL",Mihrab TVHD
+http://bblserver.ddns.net:1935/live/mihrabfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02mLvz3k/Picsart_26_02_17_01_23_06_269.jpg" group-title="KIRDSH CHANAL LOKAL",IMK TVHD
+http://imkhd.ddns.net:1935/live/imkhd/HawezHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvWpXj3P/Picsart-26-02-19-17-21-11-996.jpg" group-title="KIRDSH CHANAL LOKAL",ZAVAR-TV-HD
+http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DytNxDxX/Picsart-26-02-19-17-23-48-802.jpg" group-title="KIRDSH CHANAL LOKAL",HALABJA TV HD
+http://iptvtree.net:8080/osec/c5176e377c82/147499
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKjPf5zP/Picsart-26-02-19-17-24-54-769.jpg" group-title="KIRDSH CHANAL LOKAL",FARMODATV HD
+http://avrstream.com:1935/live/FarmodaTV/HawezHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJW54BzZ/Picsart-26-02-19-17-26-00-743.jpg" group-title="KIRDSH CHANAL LOKAL",MIHRAB TV
+http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/25Bh2cX2/Picsart-26-02-19-17-29-28-910.jpg" group-title="KIRDSH CHANAL LOKAL",EURO KURD TV
+http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8P21LZMV/Picsart-26-02-19-17-32-14-816.jpg" group-title="KIRDSH CHANAL LOKAL",BAHA TVHD
+http://baskhd.ddns.net:40/live/baskhd/yusfstore.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1GSMn9q/Picsart-26-02-19-17-33-13-098.jpg" group-title="KIRDSH CHANAL LOKAL",SADA TV HD
+http://sada-hd.ddns.net:40/live/sadatv/HawezHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLWLVDHz/Picsart-26-02-19-17-34-19-536.jpg" group-title="KIRDSH CHANAL LOKAL",INFINITY-TV-HD
+https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXFrRqz3/Picsart-26-02-19-17-35-12-687.jpg" group-title="KIRDSH CHANAL LOKAL",MIX KURDY TV
+http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdg76SVM/Picsart-26-02-19-17-36-30-542.png" group-title="KIRDSH CHANAL LOKAL",HORMZYAR HD
+http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHr19Cxn/Picsart-26-02-19-17-38-50-181.png" group-title="KIRDSH CHANAL LOKAL",RASOULALLAH TV
+http://avrstream.com:1935/live/rasoulallahtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wM3mRwJy/Picsart-26-02-19-17-40-15-650.jpg" group-title="KIRDSH CHANAL LOKAL",SHAR TVHD
+http://avrstream.com:1935/live/SHARTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dj9tz11/Picsart-26-02-19-17-43-23-065.png" group-title="KIRDSH CHANAL LOKAL",ALA-TV-HD
+http://avrstream.com:1935/live/ala-hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqGbxj1T/Picsart-26-02-19-17-45-54-563.jpg" group-title="KIRDSH CHANAL LOKAL",BNAR TV HD
+http://baskhd.ddns.net:40/live/bnar4k/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zqPXwf9/Picsart-26-02-19-17-47-00-251.jpg" group-title="KIRDSH CHANAL LOKAL",AVAR TV
+http://avrstream.com:1935/live/AvarTv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtJ2Kbs9/Picsart-26-02-19-17-48-17-759.jpg" group-title="KIRDSH CHANAL LOKAL",CHANAL 21 QURAN HD
+http://k21hd.mypsx.net:40/live/KANALI/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85py9V8y/Picsart-26-02-19-17-50-00-491.jpg" group-title="KIRDSH CHANAL LOKAL",DARWAZA HD
+https://v.redd.it/5eynmp69gj6f1/HLSPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NCmPtYw/Picsart-26-02-19-17-51-26-912.jpg" group-title="KIRDSH CHANAL LOKAL",WAAR TVHD
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_240p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD957Ssz/Picsart-26-02-19-18-05-59-096.png" group-title="KIRDSH CHANAL LOKAL",JIN TV HD
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02yCsCBN/Picsart-26-02-19-18-07-51-556.png" group-title="KIRDSH CHANAL LOKAL",NEX TV HD
+https://next.badinan.xyz/nexttv/FHD/chunklist_w2146685998.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQz2GfFh/Picsart-26-02-19-18-09-12-979.png" group-title="KIRDSH CHANAL LOKAL",RAVAND-TV-HD
+http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncN9PYbC/Picsart-26-02-19-18-10-33-133.png" group-title="KIRDSH CHANAL LOKAL",TRT KURDIHD
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8z5Qc3Y/Picsart-26-02-19-18-11-45-938.png" group-title="KIRDSH CHANAL LOKAL",BAHRA TV HD
+http://51.89.152.180/live/BahraHD/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jFQJc5k/Picsart-26-02-19-16-32-11-375.jpg" group-title="KIRDSH CHANAL LOKAL",AVA SPORTS HD
+http://109.71.252.138/avasportyusfiptv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5krD6nL/Picsart-26-02-19-18-12-58-738.jpg" group-title="KIRDSH CHANAL LOKAL",MEDYA HABER HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/94642
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcC6MHPz/Picsart-26-02-19-18-13-54-375.jpg" group-title="KIRDSH CHANAL LOKAL",STERK TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511306
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4NvnWC5V/Picsart-26-02-19-18-15-02-215.png" group-title="KIRDSH CHANAL LOKAL",RONAHI TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/586
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rF9FS1Vg/Picsart-26-02-19-18-15-57-124.jpg" group-title="KIRDSH CHANAL LOKAL",CIRA TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511332
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y26pH6Wq/Picsart-26-02-19-18-16-52-952.png" group-title="KIRDSH CHANAL LOKAL",MED MUSIC TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511315
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRPX1LDG/Picsart-26-02-19-18-18-00-917.jpg" group-title="KIRDSH CHANAL LOKAL",RENG DOCUMENTARY HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/528775
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTYrspnK/Picsart-26-02-19-18-19-00-038.png" group-title="KIRDSH CHANAL LOKAL",ARYAN TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/8184
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMPRG3VD/Picsart-26-02-19-18-22-10-906.jpg" group-title="KIRDSH CHANAL LOKAL",SAHAR KURDI HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/30476
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBzYTnZC/Picsart-26-02-19-18-23-42-518.jpg" group-title="KIRDSH CHANAL LOKAL",GALI KURDSTAN HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/8183
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgccgxYQ/san-logo-design-inspiration-for-a-unique-identity-modern-elegance-and-creative-design-watermark-your.jpg" group-title="KIRDSH CHANAL LOKAL",SAN HD
+http://iptvtree.net:8080/osec/c5176e377c82/24491
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Df9C3NXH/Picsart-26-02-19-18-24-40-561.jpg" group-title="KIRDSH CHANAL LOKAL",RKMENELI TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/339765
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQyB69xx/Picsart-26-02-19-18-25-52-251.jpg" group-title="KIRDSH CHANAL LOKAL",NUBAR TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/459193
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sfPXXdBK/rozh-tv.jpg" group-title="KIRDSH CHANAL LOKAL",ROZH TV HD
+http://iptvtree.net:8080/osec/c5176e377c82/301679
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0xRJz9g/Picsart-26-02-19-18-27-05-060.png" group-title="KIRDSH CHANAL LOKAL",DEJLA TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/339864
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFQsBBd9/Picsart-26-02-19-18-54-21-089.png" group-title="KIRDSH CHANAL LOKAL",DERWAZA TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/339851
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLmWgpMp/Picsart-26-02-19-18-55-42-583.jpg" group-title="KIRDSH CHANAL LOKAL",RANYA TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/339781
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMRTd9yW/unnamed-(6).jpg" group-title="KIRDSH CHANAL LOKAL",SRUSHT TV HD
+http://iptvtree.net:8080/osec/c5176e377c82/152469
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1NQ6hLK/Picsart-26-02-19-18-56-44-731.jpg" group-title="KIRDSH CHANAL LOKAL",RASAN TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378330
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3J2BSwcQ/Picsart-26-02-25-02-35-53-689.png" group-title="KIRDSH CHANAL LOKAL",LD ANMIE HD
+http://iptvtree.net:8080/osec/c5176e377c82/300727
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4LLRbB6/Picsart-26-02-25-02-39-42-998.jpg" group-title="KIRDSH CHANAL LOKAL",LD NUIEN HD
+http://iptvtree.net:8080/osec/c5176e377c82/300733
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkbyZWk4/Picsart-26-02-25-02-38-11-347.png" group-title="KIRDSH CHANAL LOKAL",LD LIFE HD
+http://iptvtree.net:8080/osec/c5176e377c82/300732
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ2HTrL/Picsart-26-02-19-19-01-11-837.png" group-title="KIRDSH CHANAL LOKAL",KIRKUK TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/471548
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/h47TLP5j/Picsart-26-02-19-19-02-23-536.jpg" group-title="KIRDSH CHANAL LOKAL",IMN KURDSH TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/471546
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqx8PtwB/Picsart-26-02-19-19-01-36-483.jpg" group-title="KIRDSH CHANAL LOKAL",BMC TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/471484
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FztfW3BK/Picsart-26-02-19-19-03-06-762.png" group-title="KIRDSH CHANAL LOKAL",RENG TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378307
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9F0WjqT/Picsart-26-02-19-19-21-54-012.jpg" group-title="KIRDSH CHANAL LOKAL",DEMIN TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378290
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXqG2JrY/Picsart-26-02-19-19-02-48-272.jpg" group-title="KIRDSH CHANAL LOKAL",CHIHAN TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378282
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HW4sDqJ5/Picsart-26-02-19-19-16-24-827.jpg" group-title="KIRDSH CHANAL LOKAL",TASAWF TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378273
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1RvFC09/Picsart-26-02-19-19-05-09-534.jpg" group-title="KIRDSH CHANAL LOKAL",MINARA TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378249
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLZwzmzp/Picsart-26-02-19-19-04-40-572.png" group-title="KIRDSH CHANAL LOKAL",KOMAL RANYA HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378243
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0j2gqH3c/Picsart-26-02-19-19-06-23-385.jpg" group-title="KIRDSH CHANAL LOKAL",SAUDIYA SUNNA HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378239
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brv55SSd/Picsart-26-02-19-19-25-54-093.jpg" group-title="KIRDSH CHANAL LOKAL",U2 TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378233
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90vBBDGT/Picsart-26-02-19-19-27-59-489.png" group-title="KIRDSH CHANAL LOKAL",SAROK PESHRAW TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378225
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Nfmnzt58/Picsart-26-02-19-19-07-17-275.jpg" group-title="KIRDSH CHANAL LOKAL",JUDI TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378219
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5yvsT59Z/Picsart-26-02-19-19-07-39-325.png" group-title="KIRDSH CHANAL LOKAL",ZAXO TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378211
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxpxBmd7/Picsart-26-02-19-19-08-03-754.png" group-title="KIRDSH CHANAL LOKAL",BINER TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378196
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJWY6JDC/Picsart-26-02-19-19-51-30-305.png" group-title="KIRDSH CHANAL LOKAL",LD NUJIN TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378192
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHgcRgqt/Picsart-26-02-26-14-23-37-919.jpg" group-title="KIRDSH CHANAL LOKAL",SLEMANE ART HD
+http://iptvtree.net:8080/osec/c5176e377c82/300768
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02Gz26z5/Picsart-26-02-19-19-08-36-947.png" group-title="KIRDSH CHANAL LOKAL",AZRBEJAN KURDI TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378189
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvsvK3KK/Picsart-26-02-19-19-09-05-592.jpg" group-title="KIRDSH CHANAL LOKAL",KERMANSH TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378187
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zn85RgK7/Picsart-26-02-19-19-09-27-385.png" group-title="KIRDSH CHANAL LOKAL",KANI TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511357
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLXLWsNC/Picsart-26-02-19-19-15-34-394.png" group-title="KIRDSH CHANAL LOKAL",NOOR TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511353
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjBxhKDJ/Picsart-26-02-19-19-10-17-227.jpg" group-title="KIRDSH CHANAL LOKAL",BANGAWAZ TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511334
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwBpz89h/Picsart-26-02-19-19-10-43-527.jpg" group-title="KIRDSH CHANAL LOKAL",DHOK TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511329
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY9PZ194/Picsart-26-02-19-19-11-14-044.jpg" group-title="KIRDSH CHANAL LOKAL",BABOLE TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511327
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JxsWVwz/Picsart-26-02-19-19-12-12-615.jpg" group-title="KIRDSH CHANAL LOKAL",ZHYAR TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511303
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yLFz4dy/Picsart-26-02-19-19-14-04-943.jpg" group-title="KIRDSH CHANAL LOKAL",KURD CINEMA HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511321
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBgcj8qh/Picsart-26-02-19-19-58-22-610.jpg" group-title="KIRDSH CHANAL LOKAL",BNAR MOVIE'SHD
+http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ry31ttyy/Picsart-26-02-19-19-13-03-799.jpg" group-title="KIRDSH CHANAL LOKAL",SIMA DOCUMENTARY HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511340
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2j0x0s6/Picsart-26-02-19-19-05-54-234.jpg" group-title="KIRDSH CHANAL LOKAL",U TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378233
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNS2htt6/Picsart-26-02-25-01-53-04-681.jpg" group-title="KIRDSH CHANAL LOKAL",ASMAN HD
+http://iptvtree.net:8080/osec/c5176e377c82/270359
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/c39cd1c1eb4249fd8efe8b4134cd701c.png" group-title="KIRDSH CHANAL LOKAL",DASINYA KIDS HD
+http://iptvtree.net:8080/osec/c5176e377c82/24484
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/e62acdd89906856b1c20ce924c6dcf85.jfif" group-title="KIRDSH CHANAL LOKAL",DASINYA MUSIC HD
+http://iptvtree.net:8080/osec/c5176e377c82/147358
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jhrz443/Picsart-26-02-19-16-38-23-496.png" group-title="KIRDSH CHANAL LOKAL",DASINYA SPORTS HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511330
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/206eae7eade97e41f588480e2bf7242d.jpg" group-title="KIRDSH CHANAL LOKAL",DALAL SPORTS HD
+http://iptvtree.net:8080/osec/c5176e377c82/300710
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/65c456288b04bb81ee2ed90fcdfc26d8.jpg" group-title="KIRDSH CHANAL LOKAL",DALAL TV HD
+http://iptvtree.net:8080/osec/c5176e377c82/147464
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/a6e27b83748916bd97239fa2a681a499.jpeg" group-title="KIRDSH CHANAL LOKAL",DEVER TV HD
+http://iptvtree.net:8080/osec/c5176e377c82/81276
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4fZQbpK/Picsart-26-02-26-13-37-53-127.png" group-title="KIRDSH CHANAL LOKAL",KOMALA TV HD
+http://iptvtree.net:8080/osec/c5176e377c82/152475
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/fc26ce08fbc6d4545571ea5651995036.jpeg" group-title="KIRDSH CHANAL LOKAL",EVIN TV HD
+http://iptvtree.net:8080/osec/c5176e377c82/193550
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50F418wc/Picsart-26-02-25-02-17-41-161.png" group-title="KIRDSH CHANAL LOKAL",FOX TVHD
+http://iptvtree.net:8080/osec/c5176e377c82/300713
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBZtTk7K/Picsart-26-02-26-13-46-19-670.png" group-title="KIRDSH CHANAL LOKAL",MED MUSIC HD
+http://iptvtree.net:8080/osec/c5176e377c82/281584
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh2yFTv4/Picsart-26-02-26-13-52-15-597.jpg" group-title="KIRDSH CHANAL LOKAL",NET TV HD
+http://iptvtree.net:8080/osec/c5176e377c82/778
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjdf5hsZ/Picsart-26-02-25-02-21-33-306.jpg" group-title="KIRDSH CHANAL LOKAL",HELHELOK HD
+http://iptvtree.net:8080/osec/c5176e377c82/147484
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XN8hqpQ6/images-(17).png" group-title="KIRDSH CHANAL LOKAL",ISLAM TV
+http://iptvtree.net:8080/osec/c5176e377c82/300721
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/2d96c50b8f40b52ac7dc23d8c336f496.jpg" group-title="KIRDSH CHANAL LOKAL",NWHADRA TV HD
+http://iptvtree.net:8080/osec/c5176e377c82/52764
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2trWVxD/qalat-tv.png" group-title="KIRDSH CHANAL LOKAL",QALAT TV HD
+http://iptvtree.net:8080/osec/c5176e377c82/193417
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCZG0Xpp/Picsart-26-02-19-19-06-57-408.jpg" group-title="KIRDSH CHANAL LOKAL",KURD FILM TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511344
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YC4TzFQp/Picsart-26-02-19-19-12-36-057.jpg" group-title="KIRDSH CHANAL LOKAL",KURD MOVIE TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511350
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SK6TgfRm/Picsart-26-02-19-19-15-03-340.jpg" group-title="KIRDSH CHANAL LOKAL",KURD CINEMA 2 HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511320
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43cksc37/Picsart-26-02-19-19-11-35-305.jpg" group-title="KIRDSH CHANAL LOKAL",KDDOBLAZH TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511325
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvNYqcdc/IMG-20260226-221934-867.jpg" group-title="KIRDSH CHANAL LOKAL",4 KURD HD
+https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Kurdmax Sorani" tvg-logo="https://kurdtvs.net/uploads/kurdmax.png" group-title="kurdi",Kurdmax Sorani
 https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/playlist.m3u8
 #EXTINF:-1 tvg-name="Kurdmax Kurmanci" tvg-logo="https://kurdtvs.net/uploads/kurdmax.png" group-title="kurdi",Kurdmax Kurmanci
