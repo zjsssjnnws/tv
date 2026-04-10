@@ -1666,7 +1666,7 @@ http://sans7.org:88/HSCRWX7QYL/JEVY6LD1SP/471106
 http://sans7.org:88/HSCRWX7QYL/JEVY6LD1SP/471107
 #EXTINF:-1 tvg-id="ext" tvg-name="|OSN| SERIES CHANNEL HD" tvg-logo="http://vodkom.com:25461/Logo/PICONS/SERIES_CHANNEL_HD.png" group-title="ARABIC OSN HD",|OSN| SERIES CHANNEL HD
 http://sans7.org:88/HSCRWX7QYL/JEVY6LD1SP/115314
-#EXTINF:-1 tvg-id="ext" tvg-name="|OSN| SERIES +2  HD" tvg-logo="http://vodkom.com:25461/Logo/PICONS/SERIES_+2_HD.png" group-title="ARABIC OSN HD",|OSN| SERIES +2  HD
+#EXTINF:-1 tvg-id="ext" tvg-name="|OSN| SERIES +2  HD" tvg-logo="http://vodkom.com:25461/Logo/PICONS/SERIES_+2_HD.png" group-title="ARABIC OSN HD",|OSN| SERIES +2  HD
 http://sans7.org:88/HSCRWX7QYL/JEVY6LD1SP/115315
 #EXTINF:-1 tvg-id="ext" tvg-name="|OSN| FANN" tvg-logo="http://vodkom.com:25461/Logo/PICONS/fann.png" group-title="ARABIC OSN HD",|OSN| FANN
 http://sans7.org:88/HSCRWX7QYL/JEVY6LD1SP/115318
@@ -1816,7 +1816,7 @@ http://sans7.org:88/HSCRWX7QYL/JEVY6LD1SP/7411
 http://sans7.org:88/HSCRWX7QYL/JEVY6LD1SP/7410
 #EXTINF:-1 tvg-id="MBCMaxARB" tvg-name="|AR| MBC MAX HD" tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC_Max_HD.png" group-title="ARABIC HD 1080p",|AR| MBC MAX HD
 http://sans7.org:88/HSCRWX7QYL/JEVY6LD1SP/7409
-#EXTINF:-1 tvg-id="mbcdrama.ae" tvg-name="|AR| MBC DRAMA  HD" tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC_Drama_HD.png" group-title="ARABIC HD 1080p",|AR| MBC DRAMA  HD
+#EXTINF:-1 tvg-id="mbcdrama.ae" tvg-name="|AR| MBC DRAMA  HD" tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC_Drama_HD.png" group-title="ARABIC HD 1080p",|AR| MBC DRAMA  HD
 http://sans7.org:88/HSCRWX7QYL/JEVY6LD1SP/7408
 #EXTINF:-1 tvg-id="mbcvariety.ae" tvg-name="|AR| MBC VARIETY HD" tvg-logo="http://www.vodkom.com:25461/Logo/ARABICHD/MBC+_Variety_HD.png" group-title="ARABIC HD 1080p",|AR| MBC VARIETY HD
 http://sans7.org:88/HSCRWX7QYL/JEVY6LD1SP/7407
@@ -3592,7 +3592,7 @@ http://003.yasar.tv:2086/gokhantulu/ONPwYR4PH9/201774
 http://003.yasar.tv:2086/gokhantulu/ONPwYR4PH9/201773
 #EXTINF:-1 tvg-id="ext" tvg-name="|AR| I NEWS HD" tvg-logo="" group-title="AR | ARABIA",|AR| I NEWS HD
 http://003.yasar.tv:2086/gokhantulu/ONPwYR4PH9/201772
-#EXTINF:-1 tvg-id="ext" tvg-name="|AR| DIJLAH HD" tvg-logo="" group-title="AR | ARABIA",|AR| DIJLAH HD
+#EXTINF:-1 tvg-id="ext" tvg-name="|AR| DIJLAH HD" tvg-logo="" group-title="AR | ARABIA",|AR| DIJLAH HD
 http://003.yasar.tv:2086/gokhantulu/ONPwYR4PH9/201771
 #EXTINF:-1 tvg-id="ext" tvg-name="|AR| AL RABIAA SPORT HD" tvg-logo="" group-title="AR | ARABIA",|AR| AL RABIAA SPORT HD
 http://003.yasar.tv:2086/gokhantulu/ONPwYR4PH9/201770
